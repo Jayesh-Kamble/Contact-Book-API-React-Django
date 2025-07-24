@@ -6,9 +6,8 @@ A full-stack contact management application built with Django REST API backend a
 
 - **Frontend**: [https://contact-book-api-react-django.vercel.app/](https://contact-book-api-react-django.vercel.app/)
 - **Backend**: Hosted on PythonAnywhere
-```
+
 ![Image](https://github.com/user-attachments/assets/3ea8afb9-6c80-4688-9471-4f8cd692aa8d)
-```
 
 ## 🚀 Features
 
